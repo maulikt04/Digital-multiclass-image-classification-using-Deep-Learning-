@@ -16,5 +16,12 @@ Develop and train a neural network that recognizes handwritten digits with amazi
 ![Screenshot 2023-10-01 121307](https://github.com/maulikt04/Digital-multiclass-image-classification-using-Deep-Learning-/assets/123557248/b8e80dc2-d5cc-4460-a1c1-2b0dd3cf7919)
 ## Data Visualization:
 ![Screenshot: 2023-10-01 121458](https://github.com/maulikt04/Digital-multiclass-image-classification-using-Deep-Learning-/assets/123557248/971a5a84-6d5a-4149-b046-caf5792bce30)
+## Build Keras Sequential Model Details:
+![Screenshot: 2023-10-01 121733](https://github.com/maulikt04/Digital-multiclass-image-classification-using-Deep-Learning-/assets/123557248/984225cb-af69-4e3f-ab2d-46240734e9fe)
+## Graphical Evaluation:
+1) Loss vs. Validation Loss:
+   ![Screenshot 2023-10-01 121945](https://github.com/maulikt04/Digital-multiclass-image-classification-using-Deep-Learning-/assets/123557248/28a849b3-da91-4b48-b280-2cbad5d8e77e)
+
+
 
 
